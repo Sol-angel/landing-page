@@ -129,3 +129,59 @@ h1 {
     color: #1F2937;
     
 }
+
+.item9 {
+    font-weight: bold;
+    margin-top: 150px;
+    margin-left: 569px;
+}
+
+.container5 {
+    display: flex;
+    height: 160px;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.item10 {
+    background-color: #3882F6;
+    width: 900px;
+    height: 116px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.time {
+    color: #F9FAF8;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.sign {
+    color: #E5E7EB;
+}
+
+.btn {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+    border: #F9FAF8 solid 2px;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+}
+
+footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+
+.item12 {
+    color: #F9FAF8;
+    font-weight: bold;
+}
