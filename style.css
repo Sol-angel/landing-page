@@ -75,4 +75,57 @@ button {
     width: 400px;
     margin-left: 100px;
 }
+
+h1 {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.empty {
+    border: #3882F6 solid ;
+    height: 140px;
+    width: 150px;
+    margin-left: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.container3{
+    display: flex;
+    margin-bottom: 50px;
+
+}
+
+.item7 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
     
+.text {
+    width: 160px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+    margin-top: 7px;
+}
+
+.one {
+    margin-left: 210px;
+    
+}
+
+.container4 {
+    height: 200px;
+    background-color: #E5E7EB;
+}
+
+.item8 {
+    font-size: 36px;
+    color: #1F2937;
+    
+}
